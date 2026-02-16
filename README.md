@@ -7,4 +7,4 @@
   and CMSIS (Core Peripherals) libraries. The game logic was written in non-blocking C code, which utilized timers and flags.
   We also implemented an additional gyroscope interrupt logic for detecting tilt movement, OLED for interactive low-power animation display,
   and a buzzer for generating tones.
-* Check out [EE2028 - Sotong Game]([https://docs.github.com](https://sites.google.com/view/liewkangzhen/home/ee2028-project)) to see the physical demo and gain more information. Cheers!
+* Check out [EE2028 - Sotong Game](https://sites.google.com/view/liewkangzhen/home/ee2028-project) to see the physical demo and gain more information. Cheers!
